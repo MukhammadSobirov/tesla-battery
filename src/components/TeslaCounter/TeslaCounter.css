@@ -1,6 +1,6 @@
 .tesla-counter {
   float: left;
-  width: 230px;
+  width: 200px;
 }
 .tesla-counter__title {
   letter-spacing: 2px;
@@ -28,7 +28,6 @@
   position: relative;
 }
 .tesla-counter__number span {
-  position: absolute;
   top: 0;
   left: 35px;
   font-size: 15px;
@@ -36,7 +35,7 @@
 }
 .tesla-counter__item {
   position: relative;
-  width: 100%;
+  width: 70%;
   height: 65px;
   border: 1px solid #ccc;
   display: inline-block;
